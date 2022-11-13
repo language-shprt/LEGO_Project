@@ -1,2 +1,2 @@
 # LEGO_Project
-Czechitas Data Akadem, 2022
+Czechitas Data Akademy, 2022
