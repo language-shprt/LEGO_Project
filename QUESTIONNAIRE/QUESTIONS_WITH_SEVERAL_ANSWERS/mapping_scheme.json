@@ -1,0 +1,546 @@
+{
+    "CZ": {
+        "3. Vaše pohlaví": {
+            "žena": 1,
+            "muž": 2
+        },
+        "4. Váš věk": {
+            "do 12": 1,
+            "13 - 18": 2,
+            "19 - 25": 3,
+            "26 - 40": 4,
+            "41 - 50": 5,
+            "51+": 6
+        },
+        "5. Jak často si kupujete / dostáváte nové sety LEGO?": {
+            "1x za týden": 1,
+            "1x za měsíc": 2,
+            "1x za 3 měsíce": 3,
+            "1x za půl roku": 4,
+            "1x za rok": 5,
+            "Nepravidelně": 6,
+            "Vůbec": 7
+        },
+        "6. Pro koho byste koupil/a LEGO?": {
+            "Pro sebe": 1,
+            "Jako dárek pro děti": 2,
+            "Jako dárek pro dospělé": 3,
+            "Nekupuji, ale dostávám jako dárek": 4,
+            "Nekupuji": 5
+        },
+        "7. Myslíte si, že LEGO je dobrý dárek k Vánocům?": {
+            "Ano": 1,
+            "Ne": 2
+        },
+        "8. Co Vás omezuje / brání při nákupu LEGO (max. 3)?": {
+            "Cena": 1,
+            "Nemám kde to skladovat": 2,
+            "Je to jednorázová zábava, pak nevím, co s tím": 3,
+            "Nekupuji to": 4,
+            "Nic mě nebrání, jsem #hardcoreFan": 5,
+            "Jiné": 6
+        },
+        "9. Maximální cenová hranice za set pro vás je…": {
+            "do 500 Kč": 1,
+            "do 1000 Kč": 2,
+            "do 2000 Kč": 3,
+            "do 3000 Kč": 4,
+            "do 5000 Kč": 5,
+            "do 10000 Kč": 6,
+            "Vůbec žádná :)": 7
+        },
+        "10. Co nejvíc ovlivňuje výběr setu (max. 3)?": {
+            "Populární filmy / knihy": 1,
+            "Počet kostek / náročnost": 2,
+            "Věkové doporučení": 3,
+            "Efekt “všichni to mají”": 4,
+            "Osobní preference": 5,
+            "Téma (Pirati, City, Star Wars…)": 6,
+            "Cena": 7,
+            "Slevy nebo akce": 8,
+            "Jiné": 9
+        },
+        "11. Vyberte 3 nejoblíbenější témata (max. 3)": {
+            "Architecture": 1,
+            "Batman": 2,
+            "BOOST": 3,
+            "BrickHeadz": 4,
+            "BrickSketches": 5,
+            "City": 6,
+            "Classic": 7,
+            "Creator 3in1": 8,
+            "Creator Expert": 9,
+            "DC": 10,
+            "Disney": 11,
+            "Disney Mickey and Friends": 12,
+            "Disney and Pixar’s Lightyear": 13,
+            "DOTS": 14,
+            "DUPLO": 15,
+            "Friends": 16,
+            "Frozen": 17,
+            "Harry Potter": 18,
+            "Ideas": 19,
+            "Jurassic World": 20,
+            "Art": 21,
+            "Avatar": 22,
+            "Education": 23,
+            "Icons": 24,
+            "Super Mario": 25,
+            "Marvel": 26,
+            "MINDSTORMS": 27,
+            "Minecraft": 28,
+            "Minifigures": 29,
+            "Minions": 30,
+            "Monkie Kid": 31,
+            "NINJAGO": 32,
+            "Power Functions": 33,
+            "Powered UP": 34,
+            "SERIOUS PLAY": 35,
+            "Speed Champions": 36,
+            "Spiderman": 37,
+            "Star Wars": 38,
+            "Stranger Things": 39,
+            "Technic": 40,
+            "VIDIYO": 41,
+            "Xtra": 42,
+            "Jiné": 43
+        },
+        "12. Kolikrát v průměru rozebíráte a poskládáte jeden set LEGO?": {
+            "Každý set poskládám jenom jednou": 1,
+            "2x - 3x": 2,
+            "Radši nepočítám": 3
+        },
+        "13. Zkusil jste aspoň jednou z koustek LEGO postavit něco svého?": {
+            "Ano": 1,
+            "Ne, poskládám standardní sety podle instrukce": 2
+        },
+        "14. Co děláte pokud se nějaká kostka ztratí?": {
+            "Hned si kupuju novou stejnou": 1,
+            "Používám nějakou jinou jako náhradní": 2,
+            "Vůbec to neřeším": 3,
+            "Prodám / daruji celý set": 4
+        },
+        "15. Využíval/a jste někdy standardní “spare parts” (náhradní kostky), které LEGO dává do nového setu?": {
+            "Ano, a docela často": 1,
+            "Ano, ale jen parkrát": 2,
+            "Ano, používám, ale ne jako nahradní díl": 3,
+            "Nikdy, jsou úplně zbytečné": 4,
+            "Nikdy jsem si jich nevšiml": 5
+        },
+        "16. Přemýšlel/a jste někdy o nákupu LEGO setu za účelem investice?": {
+            "Ano": 1,
+            "Ne": 2,
+            "Už to mám koupené": 3,
+            "Děti mi to našly a rozbalily": 4,
+            "Nevydržel/a bych to nerozbalit": 5
+        }
+    },
+    "ENG": {
+        "3. Vaše pohlaví": {
+            "Female": 1,
+            "Male": 2
+        },
+        "4. Váš věk": {
+            "under 12": 1,
+            "13 - 18 years old": 2,
+            "19 - 25 years old": 3,
+            "26 - 40 years old": 4,
+            "41 - 50 years old": 5,
+            "over 51": 6
+        },
+        "5. Jak často si kupujete / dostáváte nové sety LEGO?": {
+            "Once a week": 1,
+            "Once a month": 2,
+            "Once in three months": 3,
+            "Once a half year": 4,
+            "Once a year": 5,
+            "Rarely": 6,
+            "Never": 7
+        },
+        "6. Pro koho byste koupil/a LEGO?": {
+            "For myself": 1,
+            "As a gift for a kid": 2,
+            "As a gift for an adult": 3,
+            "I do not buy it, I am the lucky one who gets LEGO as a gift": 4,
+            "I do not buy it": 5
+        },
+        "7. Myslíte si, že LEGO je dobrý dárek k Vánocům?": {
+            "Yes": 1,
+            "No": 2
+        },
+        "8. Co Vás omezuje / brání při nákupu LEGO (max. 3)?": {
+            "It is pricey": 1,
+            "I do not have space to store it": 2,
+            "It’s a one-time entertainment. Don’t know what to do with it after that.": 3,
+            "I do not buy it": 4,
+            "Nothing stops me from buying LEGO. I am a devoted LEGO fan!": 5,
+            "Jiné": 6
+        },
+        "9. Maximální cenová hranice za set pro vás je…": {
+            "up to 20 USD": 1,
+            "up to 40 USD": 2,
+            "up to 80 USD": 3,
+            "up to 120 USD": 4,
+            "up to 200 USD": 5,
+            "up to 400 USD": 6,
+            "Ready to pay any price": 7
+        },
+        "10. Co nejvíc ovlivňuje výběr setu (max. 3)?": {
+            "Popular movies / books": 1,
+            "Number of parts in a set/difficulty level": 2,
+            "Age recommendations": 3,
+            "Effect “Everybody has it”": 4,
+            "Personal preferences": 5,
+            "LEGO Theme (Pirates, City, Star Wars...)": 6,
+            "Price": 7,
+            "Sale or discount": 8,
+            "Jiné": 9
+        },
+        "11. Vyberte 3 nejoblíbenější témata (max. 3)": {
+            "Architecture": 1,
+            "Batman": 2,
+            "BOOST": 3,
+            "BrickHeadz": 4,
+            "BrickSketches": 5,
+            "City": 6,
+            "Classic": 7,
+            "Creator 3in1": 8,
+            "Creator Expert": 9,
+            "DC": 10,
+            "Disney": 11,
+            "Disney Mickey and Friends": 12,
+            "Disney and Pixar’s Lightyear": 13,
+            "DOTS": 14,
+            "DUPLO": 15,
+            "Friends": 16,
+            "Frozen": 17,
+            "Harry Potter": 18,
+            "Ideas": 19,
+            "Jurassic World": 20,
+            "Art": 21,
+            "Avatar": 22,
+            "Education": 23,
+            "Icons": 24,
+            "Super Mario": 25,
+            "Marvel": 26,
+            "MINDSTORMS": 27,
+            "Minecraft": 28,
+            "Minifigures": 29,
+            "Minions": 30,
+            "Monkie Kid": 31,
+            "NINJAGO": 32,
+            "Power Functions": 33,
+            "Powered UP": 34,
+            "SERIOUS PLAY": 35,
+            "Speed Champions": 36,
+            "Spiderman": 37,
+            "Star Wars": 38,
+            "Stranger Things": 39,
+            "Technic": 40,
+            "VIDIYO": 41,
+            "Xtra": 42,
+            "Jiné": 43
+        },
+        "12. Kolikrát v průměru rozebíráte a poskládáte jeden set LEGO?": {
+            "Only once": 1,
+            "2-3 times": 2,
+            "Would not bother to count": 3
+        },
+        "13. Zkusil jste aspoň jednou z koustek LEGO postavit něco svého?": {
+            "Yes": 1,
+            "Nope, always going by the book": 2
+        },
+        "14. Co děláte pokud se nějaká kostka ztratí?": {
+            "Buy the same one immediately": 1,
+            "Use some other part as a spare": 2,
+            "Do nothing": 3,
+            "Sell or give away the whole set": 4
+        },
+        "15. Využíval/a jste někdy standardní “spare parts” (náhradní kostky), které LEGO dává do nového setu?": {
+            "Yes, quite often": 1,
+            "Yes, but just a couple of times": 2,
+            "Yes, I use them but not as a spare part": 3,
+            "Never, nobody ever needs them": 4,
+            "Are there spare parts?": 5
+        },
+        "16. Přemýšlel/a jste někdy o nákupu LEGO setu za účelem investice?": {
+            "Yes": 1,
+            "No": 2,
+            "I’ve already done that": 3,
+            "I tried, but my kids found the box and now it is opened": 4,
+            "It would not stay unopened in my house :)": 5
+        }
+    },
+    "RU": {
+        "3. Vaše pohlaví": {
+            "женский": 1,
+            "мужской": 2
+        },
+        "4. Váš věk": {
+            "младше 12": 1,
+            "13 - 18 лет": 2,
+            "19 - 25 лет": 3,
+            "26 - 40 лет": 4,
+            "41 - 50 лет": 5,
+            "старше 51": 6
+        },
+        "5. Jak často si kupujete / dostáváte nové sety LEGO?": {
+            "Раз в неделю": 1,
+            "Раз в месяц": 2,
+            "Раз в три месяца": 3,
+            "Раз в полгода": 4,
+            "Раз в год": 5,
+            "Редко": 6,
+            "Никогда": 7
+        },
+        "6. Pro koho byste koupil/a LEGO?": {
+            "Для себя.": 1,
+            "В подарок ребенку.": 2,
+            "В подарок взрослому.": 3,
+            "Я не покупаю ЛЕГО. Мне его дарят! (Да-да, мне повезло:)": 4,
+            "Я не покупаю ЛЕГО.": 5
+        },
+        "7. Myslíte si, že LEGO je dobrý dárek k Vánocům?": {
+            "Да": 1,
+            "Нет": 2
+        },
+        "8. Co Vás omezuje / brání při nákupu LEGO (max. 3)?": {
+            "Они дорогие.": 1,
+            "Мне их негде хранить.": 2,
+            "Ну вот собрал его один раз, а дальше его куда?": 3,
+            "Я не покупаю наборы ЛЕГО.": 4,
+            "Ничего меня не ограничивает. Я просто обожаю ЛЕГО!": 5,
+            "Jiné": 6
+        },
+        "9. Maximální cenová hranice za set pro vás je…": {
+            "До 1250 рублей.": 1,
+            "До 2500 рублей.": 2,
+            "До 5000 рублей.": 3,
+            "До 7500 рублей.": 4,
+            "До 12500 рублей.": 5,
+            "До 25000 рублей.": 6,
+            "Готов заплатить любую цену.": 7
+        },
+        "10. Co nejvíc ovlivňuje výběr setu (max. 3)?": {
+            "Популярные фильмы/книги.": 1,
+            "Количество деталей в наборе/уровень сложности.": 2,
+            "Возрастные рекомендации.": 3,
+            "Эффект “У всех такой есть”": 4,
+            "Личные предпочтения.": 5,
+            "ЛЕГО серии (City, Minecraft, Star Wars).": 6,
+            "Цена.": 7,
+            "Скидки и распродажи.": 8,
+            "Jiné": 9
+        },
+        "11. Vyberte 3 nejoblíbenější témata (max. 3)": {
+            "Architecture": 1,
+            "Batman": 2,
+            "BOOST": 3,
+            "BrickHeadz": 4,
+            "BrickSketches": 5,
+            "City": 6,
+            "Classic": 7,
+            "Creator 3in1": 8,
+            "Creator Expert": 9,
+            "DC": 10,
+            "Disney": 11,
+            "Disney Mickey and Friends": 12,
+            "Disney and Pixar’s Lightyear": 13,
+            "DOTS": 14,
+            "DUPLO": 15,
+            "Friends": 16,
+            "Frozen": 17,
+            "Harry Potter": 18,
+            "Ideas": 19,
+            "Jurassic World": 20,
+            "Art": 21,
+            "Avatar": 22,
+            "Education": 23,
+            "Icons": 24,
+            "Super Mario": 25,
+            "Marvel": 26,
+            "MINDSTORMS": 27,
+            "Minecraft": 28,
+            "Minifigures": 29,
+            "Minions": 30,
+            "Monkie Kid": 31,
+            "NINJAGO": 32,
+            "Power Functions": 33,
+            "Powered UP": 34,
+            "SERIOUS PLAY": 35,
+            "Speed Champions": 36,
+            "Spiderman": 37,
+            "Star Wars": 38,
+            "Stranger Things": 39,
+            "Technic": 40,
+            "VIDIYO": 41,
+            "Xtra": 42,
+            "Jiné": 43
+        },
+        "12. Kolikrát v průměru rozebíráte a poskládáte jeden set LEGO?": {
+            "Один раз.": 1,
+            "Два - три раза.": 2,
+            "Да не сосчитать!": 3
+        },
+        "13. Zkusil jste aspoň jednou z koustek LEGO postavit něco svého?": {
+            "Да.": 1,
+            "Нет, я всегда следую инструкции.": 2
+        },
+        "14. Co děláte pokud se nějaká kostka ztratí?": {
+            "Сразу покупаю такую же.": 1,
+            "Просто использую любую другую.": 2,
+            "Ничего не делаю.": 3,
+            "Продаю или дарю весь набор ЛЕГО.": 4
+        },
+        "15. Využíval/a jste někdy standardní “spare parts” (náhradní kostky), které LEGO dává do nového setu?": {
+            "Да, довольно часто.": 1,
+            "Да, пару раз.": 2,
+            "Да, я их использую, но не как запасные.": 3,
+            "Никогда. Бесполезная штука.": 4,
+            "Там что есть какие-то запасные детальки?": 5
+        },
+        "16. Přemýšlel/a jste někdy o nákupu LEGO setu za účelem investice?": {
+            "Да.": 1,
+            "Нет.": 2,
+            "Я уже купил!": 3,
+            "Я пыталась/пытался. Но дети нашли и открыли коробку с набором.": 4,
+            "Ох, новый набор ЛЕГО никогда бы не остался нетронутым в нашем доме.": 5
+        }
+    },
+    "ESP": {
+        "3. Vaše pohlaví": {
+            "mujer": 1,
+            "hombre": 2
+        },
+        "4. Váš věk": {
+            "menos de 12 años": 1,
+            "13 - 18 años": 2,
+            "19 - 25 años": 3,
+            "26 - 40 años": 4,
+            "41 - 50 años": 5,
+            "más de 51 años": 6
+        },
+        "5. Jak často si kupujete / dostáváte nové sety LEGO?": {
+            "una vez a la semana": 1,
+            "una vez al mes": 2,
+            "una vez cada tres meses": 3,
+            "una vez cada seis meses": 4,
+            "una vez al año": 5,
+            "irregularmente": 6,
+            "nunca": 7
+        },
+        "6. Pro koho byste koupil/a LEGO?": {
+            "para mí": 1,
+            "como regalo para niños": 2,
+            "como regalo para adultos": 3,
+            "no lo compro, me lo regalan": 4,
+            "no lo compro": 5
+        },
+        "7. Myslíte si, že LEGO je dobrý dárek k Vánocům?": {
+            "sí": 1,
+            "no": 2
+        },
+        "8. Co Vás omezuje / brání při nákupu LEGO (max. 3)?": {
+            "precio": 1,
+            "no tengo dónde guardarlo": 2,
+            "disfruto armándolos solo una vez, luego no sé qué hacer con ellos": 3,
+            "no lo compro": 4,
+            "nada me lo puede impedir, soy #hardcoreFan": 5,
+            "Jiné": 6
+        },
+        "9. Maximální cenová hranice za set pro vás je…": {
+            "20 USD": 1,
+            "40 USD": 2,
+            "80 USD": 3,
+            "120 USD": 4,
+            "200 USD": 5,
+            "400 USD": 6,
+            "pagaré cualquier precio :)": 7
+        },
+        "10. Co nejvíc ovlivňuje výběr setu (max. 3)?": {
+            "películas / libros populares": 1,
+            "número de piezas / complejidad": 2,
+            "la edad recomendada": 3,
+            "el efecto “todo el mundo lo tiene”": 4,
+            "preferencias personales": 5,
+            "el tema (Piratas, City, Star Wars…)": 6,
+            "el precio": 7,
+            "descuentos o promociones": 8,
+            "Jiné": 9
+        },
+        "11. Vyberte 3 nejoblíbenější témata (max. 3)": {
+            "Architecture": 1,
+            "Batman": 2,
+            "BOOST": 3,
+            "BrickHeadz": 4,
+            "BrickSketches": 5,
+            "City": 6,
+            "Classic": 7,
+            "Creator 3in1": 8,
+            "Creator Expert": 9,
+            "DC": 10,
+            "Disney": 11,
+            "Disney Mickey and Friends": 12,
+            "Disney and Pixar’s Lightyear": 13,
+            "DOTS": 14,
+            "DUPLO": 15,
+            "Friends": 16,
+            "Frozen": 17,
+            "Harry Potter": 18,
+            "Ideas": 19,
+            "Jurassic World": 20,
+            "Art": 21,
+            "Avatar": 22,
+            "Education": 23,
+            "Icons": 24,
+            "Super Mario": 25,
+            "Marvel": 26,
+            "MINDSTORMS": 27,
+            "Minecraft": 28,
+            "Minifigures": 29,
+            "Minions": 30,
+            "Monkie Kid": 31,
+            "NINJAGO": 32,
+            "Power Functions": 33,
+            "Powered UP": 34,
+            "SERIOUS PLAY": 35,
+            "Speed Champions": 36,
+            "Spiderman": 37,
+            "Star Wars": 38,
+            "Stranger Things": 39,
+            "Technic": 40,
+            "VIDIYO": 41,
+            "Xtra": 42,
+            "Jiné": 43
+        },
+        "12. Kolikrát v průměru rozebíráte a poskládáte jeden set LEGO?": {
+            "monto cada set solo una vez": 1,
+            "dos o tres veces": 2,
+            "prefiero no contarlo": 3
+        },
+        "13. Zkusil jste aspoň jednou z koustek LEGO postavit něco svého?": {
+            "sí": 1,
+            "no, monto sets estándares según las instrucciones": 2
+        },
+        "14. Co děláte pokud se nějaká kostka ztratí?": {
+            "compro inmediatamente la misma nueva": 1,
+            "uso alguna otra como sustituto": 2,
+            "nada, no me importa": 3,
+            "vendo / regalo el set entero": 4
+        },
+        "15. Využíval/a jste někdy standardní “spare parts” (náhradní kostky), které LEGO dává do nového setu?": {
+            "sí, muy a menudo": 1,
+            "sí, pero solo un par de veces": 2,
+            "sí, las uso, pero no como repuestos": 3,
+            "nunca, son completamente inútiles": 4,
+            "no sabía que se incluyeran": 5
+        },
+        "16. Přemýšlel/a jste někdy o nákupu LEGO setu za účelem investice?": {
+            "sí": 1,
+            "no": 2,
+            "ya lo he comprado": 3,
+            "los niños lo encontraron y me lo abrieron": 4,
+            "no podría soportarlo, lo desempacaría": 5
+        }
+    }
+}
