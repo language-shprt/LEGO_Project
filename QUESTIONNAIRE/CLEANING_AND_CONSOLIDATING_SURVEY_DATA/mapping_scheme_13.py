@@ -28,6 +28,7 @@ column_names = [
 # https://www.fileformat.info/info/charset/UTF-8/list.htm
 # ěščřžýáíéóúůďťňĎŇŤŠČŘŽÝÁÍÉÚŮĚÓ
 other_letters_to_latin = {
+        #Russian
         u"\u0401": u'YO',
         u"\u0410": u'A',
         u"\u0411": u'B',
@@ -100,6 +101,7 @@ other_letters_to_latin = {
         u"\u044f": u'ya',
         u"\u0451": u'yo',
 
+        #Czech
         u"\u00C1": u'A', #Á
         u"\u00C9": u'E', #É
         u"\u011A": u'E', #Ě
@@ -131,11 +133,14 @@ other_letters_to_latin = {
         u"\u010F": u'd', #ď
         u"\u0165": u't', #ť
         u"\u0148": u'n', #ň
-
+        
+        # Polish
         u"\u015B": u's', #ś
         u"\u015A": u'S', #ś
         u"\u0107": u'c', #ć
-        u"\u0106": u'C' #ć
+        u"\u0106": u'C', #ć
+        u"\u0144": u'n', #ń
+        u"\u0143": u'N'  #Ń
     }
 
 cities_groups = {
@@ -153,7 +158,7 @@ def multiple_choice_to_numbers(respondent, column_names):
         for j in range(len(answer)):
 
             if i == column_names.index('1. V jakém městě bydlíte?'): # index 3
-                pattern_regex = re.compile(r"[ śćěščřžýáíéóúůďťňĎŇŤŠČŘŽÝÁÍÉÚŮĚÓA-Za-zА-Яа-я-]+")
+                pattern_regex = re.compile(r"[ ńśćěščřžýáíéóúůďťňĎŇŤŠČŘŽÝÁÍÉÚŮĚÓA-Za-zА-Яа-я-]+")
                 if re.fullmatch(pattern_regex, answer[j]):
                     print(answer[j])
                     city_to_latin = ''
