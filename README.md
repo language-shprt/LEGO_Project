@@ -8,6 +8,6 @@ This is a program that takes four Google Forms questionnaires in different langu
 
 This is a script to parse the page brickeconomy.com. It returns themes, names, retail prices and rating for 4.5K LEGO sets. It doesn't work with pagination (returns first 50 items from each list).
 
-### [Article about the project](XX)
+### [Article about the project](https://medium.com/@tataushelena/lego-project-data-played-well-533c75fa9184)
 
-### [Tableau visualizations](XX)
+### [Tableau visualizations](https://public.tableau.com/app/profile/masha.svobodova/viz/CzechitasLEGOProjectDataPlayedWell/DataPlayedWell)
